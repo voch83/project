@@ -6,7 +6,7 @@ public class Bank implements Entity {
 	
 	private Integer id;
 	private String name;
-	//GIT
+	
 	public Bank() {
 	}
 	
