@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Oct 02 19:11:11 EEST 2013:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): экземпляр a816c00e-0141-79ef-f41e-00000071bb68
+в каталоге базы данных C:\Users\voch\Documents\NetBeansProjects\Project\db  sun.misc.Launcher$AppClassLoader@a18aa2 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b17
+user.dir=C:\Users\voch\Documents\NetBeansProjects\Project
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
